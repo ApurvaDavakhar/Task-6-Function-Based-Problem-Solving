@@ -1,6 +1,7 @@
 # Task-6-Function-Based-Problem-Solving
 
 📘 Assignment 6 – Real-World System Design Using Python
+
 📌 Overview
 
 This assignment focuses on solving real-world system design problems using core Python programming concepts. Each problem simulates an industry-level scenario and is implemented using functions, loops, lists, dictionaries, and conditional logic.
@@ -24,6 +25,7 @@ Capacity & Threshold Validation
 Real-time system decision making
 
 📂 Problem Statements Included
+
 1️⃣ Smart Parking Lot Management System
 
 Description:
